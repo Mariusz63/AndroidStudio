@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fasz</string>
+    <string name="button_next">Nast</string>
+
+    <string name="q_iOS">Czy Android Studio obsługuje natywne rozwijanie aplikacji na platformę iOS?</string>
+    <string name="q_android">Czy Android Studio umożliwia tworzenie aplikacji na systemy wbudowane z Androidem, takie jak Android Things?</string>
+    <string name="q_kotlin">Czy Android Studio obsługuje tworzenie interfejsów użytkownika z wykorzystaniem języka programowania Kotlin?</string>
+    <string name="q_google">Czy Android Studio pozwala na integrację z usługami chmurowymi Google Cloud Platform (GCP)?</string>
+    <string name="q_java">Czy Android Studio automatycznie generuje kody źródłowe w języku Java na podstawie projektu napisanego w języku Kotlin?</string>
+
+    <string name="correct_answer">Poprawna odpowiedz.</string>
+    <string name="incorrect_answer">Odpowiedz niepoprawna.</string>
+    <string name="quiz_result">Twój wynik to: %1$d / %2$d</string>
+
+</resources>
