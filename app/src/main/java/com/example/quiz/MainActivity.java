@@ -9,9 +9,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
-    private Button trueButton;
-    private Button falseButton;
     private Button nextButton;
     private TextView questionTextView;
 
@@ -27,11 +24,14 @@ public class MainActivity extends AppCompatActivity {
     };
 
     private void setNextQuestion(){
+        currentIndex = (currentIndex +1)%questions.length;
         questionTextView.setText(questions[currentIndex].getQuestionId());
     }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        Button falseButton;
+        Button trueButton;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 checkAnswerCorrectness(true);
+                setNextQuestion();
             }
         });
 
@@ -52,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 checkAnswerCorrectness(false);
+                setNextQuestion();
             }
         });
 
@@ -101,7 +103,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showQuizResult(){
-        String resultMessage = getString(R.string.quiz_result,correctAnswers, questions.length);
+        String resultMessage = getString(R.string.quiz_result,correctAnswers%questions.length, questions.length);
         Toast.makeText(this, resultMessage, Toast.LENGTH_SHORT).show();
     }
 

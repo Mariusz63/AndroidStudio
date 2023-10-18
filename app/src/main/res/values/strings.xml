@@ -3,7 +3,7 @@
 
     <string name="button_true">Prawda</string>
     <string name="button_false">Fasz</string>
-    <string name="button_next">Nast</string>
+    <string name="button_next">Nastepne</string>
 
     <string name="q_iOS">Czy Android Studio obsługuje natywne rozwijanie aplikacji na platformę iOS?</string>
     <string name="q_android">Czy Android Studio umożliwia tworzenie aplikacji na systemy wbudowane z Androidem, takie jak Android Things?</string>
