@@ -17,10 +17,10 @@ public class MainActivity extends AppCompatActivity {
 
     private Question[] questions = new Question[]{
             new Question(R.string.q_iOS,false),
-            new Question(R.string.q_android,false),
-            new Question(R.string.q_kotlin,false),
-            new Question(R.string.q_google,false),
-            new Question(R.string.q_java,false)
+            new Question(R.string.q_android,true),
+            new Question(R.string.q_kotlin,true),
+            new Question(R.string.q_google,true),
+            new Question(R.string.q_java,true)
     };
 
     private void setNextQuestion(){
@@ -45,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 checkAnswerCorrectness(true);
-                setNextQuestion();
             }
         });
 
@@ -53,7 +52,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 checkAnswerCorrectness(false);
-                setNextQuestion();
             }
         });
 
