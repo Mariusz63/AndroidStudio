@@ -9,6 +9,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    private Button falseButton;
+    private Button trueButton;
     private Button nextButton;
     private TextView questionTextView;
 
@@ -24,14 +26,15 @@ public class MainActivity extends AppCompatActivity {
     };
 
     private void setNextQuestion(){
+        trueButton.setEnabled(true);
+        falseButton.setEnabled(true);
         currentIndex = (currentIndex +1)%questions.length;
         questionTextView.setText(questions[currentIndex].getQuestionId());
     }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        Button falseButton;
-        Button trueButton;
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -44,13 +47,20 @@ public class MainActivity extends AppCompatActivity {
         trueButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                trueButton.setEnabled(false);
+                falseButton.setEnabled(false);
                 checkAnswerCorrectness(true);
             }
+
         });
 
         falseButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                trueButton.setEnabled(false);
+                falseButton.setEnabled(false);
                 checkAnswerCorrectness(false);
             }
         });
