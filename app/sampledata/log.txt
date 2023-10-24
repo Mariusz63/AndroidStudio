@@ -556,3 +556,69 @@ Punkt 13:
 2023-10-23 11:19:53.561 24667-24667 onStop                  com.example.quiz                     D  Wywolano metode onStop
 2023-10-23 11:19:54.552 24667-24667 onDestroy               com.example.quiz                     D  Wywolano metode onDestroy
 ---------------------------- PROCESS ENDED (24667) for package com.example.quiz ----------------------------
+
+
+MainActivity:
+
+    onCreate(Bundle savedInstanceState):
+        W tym etapie inicjalizowane są komponenty interfejsu użytkownika i ustawiane listenery na przyciskach.
+        Jeśli istnieje zapisany stan (savedInstanceState), np. po obróceniu urządzenia, odczytuje się go i przywraca wcześniejszy stan aplikacji.
+
+    onStart():
+        Wywołuje się tu super.onStart() i rejestruje log "onStart".
+        Aplikacja jest widoczna dla użytkownika.
+
+    onResume():
+        Wywołuje się tu super.onResume() i rejestruje log "onResume".
+        Aplikacja jest aktywna i gotowa do interakcji z użytkownikiem.
+
+    onPause():
+        Wywołuje się tu super.onPause() i rejestruje log "onPause".
+        Aplikacja przechodzi w stan pauzy.
+
+    onStop():
+        Wywołuje się tu super.onStop() i rejestruje log "onStop".
+        Aplikacja jest niewidoczna dla użytkownika.
+
+    onDestroy():
+        Wywołuje się tu super.onDestroy() i rejestruje log "onDestroy".
+        Aplikacja zostaje zniszczona i jej zasoby są zwalniane.
+
+PromptActivity:
+
+    onCreate(Bundle savedInstanceState):
+        Inicjalizuje interfejs użytkownika, ustawia listenery na przyciskach (w tym przycisku "Back").
+        Odczytuje przekazywane przez Intent dane (czy odpowiedź była pokazywana) i ustawia odpowiednie widoki.
+
+    onStart():
+        Rejestruje log "onStart".
+
+    onResume():
+        Rejestruje log "onResume".
+        Aplikacja PromptActivity jest aktywna i gotowa do interakcji z użytkownikiem.
+
+    onPause():
+        Rejestruje log "onPause".
+        Aplikacja przechodzi w stan pauzy.
+
+    onStop():
+        Rejestruje log "onStop".
+        Aplikacja jest niewidoczna dla użytkownika.
+
+    onDestroy():
+        Rejestruje log "onDestroy".
+        Aplikacja PromptActivity zostaje zniszczona i jej zasoby są zwalniane.
+
+Porównanie:
+
+    MainActivity jest główną aktywnością aplikacji. Przechodzi przez pełny cykl życia aplikacji.
+
+    PromptActivity jest wywoływana z MainActivity za pomocą startActivityForResult, a więc jest podaktywnością, która również przechodzi przez cykl życia, ale nie jest niezależną główną aktywnością.
+
+    onCreate jest wykorzystywane w obu aktywnościach do inicjalizacji interfejsu i odczytania danych.
+
+    onStart i onStop są wykorzystywane w obu aktywnościach do rejestrowania, kiedy aktywność staje się widoczna/niewidoczna dla użytkownika.
+
+    onResume i onPause są wykorzystywane w obu aktywnościach do rejestrowania, kiedy aktywność jest aktywna i gotowa do interakcji lub przechodzi w stan pauzy.
+
+    onDestroy jest wykorzystywane w obu aktywnościach, gdy są niszczone.
