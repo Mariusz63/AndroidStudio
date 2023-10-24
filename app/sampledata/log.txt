@@ -1,0 +1,558 @@
+a2023-10-23 10:59:33.395 22587-22587 NetworkSecurityConfig   com.example.quiz                     D  No Network Security Config specified, using platform default
+2023-10-23 10:59:33.414 22587-22587 NetworkSecurityConfig   com.example.quiz                     D  No Network Security Config specified, using platform default
+2023-10-23 10:59:33.747 22587-22587 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 10:59:33.750 22587-22587 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 10:59:33.804 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 10:59:33.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105369152]
+2023-10-23 10:59:33.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105369152]
+2023-10-23 10:59:33.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105370208]
+2023-10-23 10:59:33.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105370208]
+2023-10-23 10:59:43.284 22587-22587 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 10:59:43.356 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105373088]
+2023-10-23 10:59:43.357 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105373088]
+2023-10-23 10:59:43.357 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105370400]
+2023-10-23 10:59:43.357 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105370400]
+2023-10-23 10:59:43.357 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105370304]
+2023-10-23 10:59:43.357 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105370304]
+2023-10-23 10:59:43.445 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436491712]
+2023-10-23 10:59:43.445 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436491712]
+2023-10-23 10:59:43.686 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507442615808]
+2023-10-23 10:59:43.686 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507442615808]
+2023-10-23 10:59:43.686 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x8c6805b / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 10:59:43.687 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 10:59:43.690 22587-22587 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 10:59:48.750 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x8c6805b / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 10:59:48.751 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 10:59:48.758 22587-22587 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 10:59:48.761 22587-22587 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 10:59:48.804 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 10:59:48.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105370304]
+2023-10-23 10:59:48.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105370304]
+2023-10-23 10:59:48.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105370208]
+2023-10-23 10:59:48.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105370208]
+2023-10-23 10:59:54.019 22587-22587 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 10:59:54.086 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434008064]
+2023-10-23 10:59:54.086 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434008064]
+2023-10-23 10:59:54.086 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434007776]
+2023-10-23 10:59:54.086 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434007776]
+2023-10-23 10:59:54.086 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434007584]
+2023-10-23 10:59:54.086 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434007584]
+2023-10-23 10:59:54.169 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434005472]
+2023-10-23 10:59:54.170 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434005472]
+2023-10-23 10:59:54.394 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507442623968]
+2023-10-23 10:59:54.394 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507442623968]
+2023-10-23 10:59:54.395 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x8c6805b / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 10:59:54.397 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 10:59:54.405 22587-22587 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:00:58.761 22587-22587 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:00:58.765 22587-22587 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:00:58.808 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:00:58.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105370304]
+2023-10-23 11:00:58.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105370304]
+2023-10-23 11:00:58.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105370208]
+2023-10-23 11:00:58.911 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105370208]
+2023-10-23 11:01:01.462 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320832]
+2023-10-23 11:01:01.462 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320832]
+2023-10-23 11:01:01.462 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320736]
+2023-10-23 11:01:01.462 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320736]
+2023-10-23 11:01:01.462 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320448]
+2023-10-23 11:01:01.462 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320448]
+2023-10-23 11:01:01.483 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436491136]
+2023-10-23 11:01:01.483 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436491136]
+2023-10-23 11:01:01.484 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:01.485 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323232]
+2023-10-23 11:01:01.485 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323232]
+2023-10-23 11:01:04.387 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436491136]
+2023-10-23 11:01:04.387 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436491136]
+2023-10-23 11:01:09.039 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323328]
+2023-10-23 11:01:09.039 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323328]
+2023-10-23 11:01:09.039 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323520]
+2023-10-23 11:01:09.039 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323520]
+2023-10-23 11:01:09.039 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323424]
+2023-10-23 11:01:09.039 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323424]
+2023-10-23 11:01:10.412 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323136]
+2023-10-23 11:01:10.412 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323136]
+2023-10-23 11:01:12.965 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105370400]
+2023-10-23 11:01:12.965 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105370400]
+2023-10-23 11:01:12.965 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434007776]
+2023-10-23 11:01:12.966 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434007776]
+2023-10-23 11:01:12.966 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105373088]
+2023-10-23 11:01:12.966 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105373088]
+2023-10-23 11:01:14.420 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436490848]
+2023-10-23 11:01:14.421 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436490848]
+2023-10-23 11:01:24.755 22587-22587 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:01:24.843 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436491328]
+2023-10-23 11:01:24.844 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436491328]
+2023-10-23 11:01:24.844 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436491616]
+2023-10-23 11:01:24.844 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436491616]
+2023-10-23 11:01:24.844 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436491520]
+2023-10-23 11:01:24.844 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436491520]
+2023-10-23 11:01:24.925 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436493344]
+2023-10-23 11:01:24.925 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436493344]
+2023-10-23 11:01:25.401 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320448]
+2023-10-23 11:01:25.401 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320448]
+2023-10-23 11:01:25.401 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x8c6805b / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:25.402 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:25.405 22587-22587 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:01:39.962 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x8c6805b / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:39.964 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:39.970 22587-22587 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:01:39.973 22587-22587 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:01:39.994 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:40.077 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434001344]
+2023-10-23 11:01:40.077 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434001344]
+2023-10-23 11:01:40.077 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105373088]
+2023-10-23 11:01:40.077 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105373088]
+2023-10-23 11:01:44.027 22587-22587 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:01:44.093 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434002016]
+2023-10-23 11:01:44.093 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434002016]
+2023-10-23 11:01:44.094 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434007584]
+2023-10-23 11:01:44.094 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434007584]
+2023-10-23 11:01:44.094 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434001920]
+2023-10-23 11:01:44.094 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434001920]
+2023-10-23 11:01:44.175 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434008064]
+2023-10-23 11:01:44.176 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434008064]
+2023-10-23 11:01:44.689 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434009408]
+2023-10-23 11:01:44.689 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434009408]
+2023-10-23 11:01:44.691 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x8c6805b / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:44.692 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:44.697 22587-22587 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:01:46.585 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x8c6805b / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:46.587 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:46.594 22587-22587 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:01:46.596 22587-22587 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:01:46.613 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:01:46.674 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434009216]
+2023-10-23 11:01:46.674 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434009216]
+2023-10-23 11:01:46.674 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434009024]
+2023-10-23 11:01:46.674 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434009024]
+2023-10-23 11:02:43.751 22587-22587 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:02:43.825 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434002016]
+2023-10-23 11:02:43.826 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434002016]
+2023-10-23 11:02:43.826 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436490848]
+2023-10-23 11:02:43.826 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436490848]
+2023-10-23 11:02:43.826 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434009504]
+2023-10-23 11:02:43.826 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434009504]
+2023-10-23 11:02:43.891 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434007776]
+2023-10-23 11:02:43.891 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434007776]
+2023-10-23 11:02:44.135 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436493248]
+2023-10-23 11:02:44.135 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436493248]
+2023-10-23 11:02:44.136 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x8c6805b / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:02:44.137 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:02:44.143 22587-22587 onStop                  com.example.quiz                     D  Wywolano metode onStop
+---------------------------- PROCESS ENDED (22587) for package com.example.quiz ----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2023-10-23 11:02:43.751 22587-22587 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:02:43.825 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434002016]
+2023-10-23 11:02:43.826 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434002016]
+2023-10-23 11:02:43.826 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436490848]
+2023-10-23 11:02:43.826 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436490848]
+2023-10-23 11:02:43.826 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434009504]
+2023-10-23 11:02:43.826 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434009504]
+2023-10-23 11:02:43.891 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434007776]
+2023-10-23 11:02:43.891 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434007776]
+2023-10-23 11:02:44.135 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507436493248]
+2023-10-23 11:02:44.135 22587-22587 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507436493248]
+2023-10-23 11:02:44.136 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x8c6805b / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:02:44.137 22587-22587 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:02:44.143 22587-22587 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:04:26.879 22727-22727 NetworkSecurityConfig   com.example.quiz                     D  No Network Security Config specified, using platform default
+2023-10-23 11:04:26.898 22727-22727 NetworkSecurityConfig   com.example.quiz                     D  No Network Security Config specified, using platform default
+2023-10-23 11:04:27.231 22727-22727 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:04:27.234 22727-22727 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:04:27.284 22727-22727 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:04:27.391 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561321792]
+2023-10-23 11:04:27.391 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561321792]
+2023-10-23 11:04:27.391 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561321120]
+2023-10-23 11:04:27.391 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561321120]
+2023-10-23 11:04:37.230 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757099424]
+2023-10-23 11:04:37.230 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757099424]
+2023-10-23 11:04:37.231 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561322464]
+2023-10-23 11:04:37.231 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561322464]
+2023-10-23 11:04:37.231 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561321888]
+2023-10-23 11:04:37.231 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561321888]
+2023-10-23 11:04:37.253 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507443430144]
+2023-10-23 11:04:37.253 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507443430144]
+2023-10-23 11:04:37.255 22727-22727 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x203b519 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:04:37.257 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561322848]
+2023-10-23 11:04:37.257 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561322848]
+2023-10-23 11:04:39.493 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507443430144]
+2023-10-23 11:04:39.493 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507443430144]
+2023-10-23 11:04:42.561 22727-22727 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:04:42.563 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561321888]
+2023-10-23 11:04:42.563 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561321888]
+2023-10-23 11:04:42.564 22727-22727 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:04:42.570 22727-22727 onDestroy               com.example.quiz                     D  Wywolano metode onRDestroy
+2023-10-23 11:04:42.789 22727-22727 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:04:42.792 22727-22727 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:04:42.852 22727-22727 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x5aecd70 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:04:42.905 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323040]
+2023-10-23 11:04:42.905 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323040]
+2023-10-23 11:04:42.906 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323712]
+2023-10-23 11:04:42.906 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323712]
+2023-10-23 11:04:42.906 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323520]
+2023-10-23 11:04:42.906 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323520]
+2023-10-23 11:04:42.910 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507443434560]
+2023-10-23 11:04:42.910 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507443434560]
+2023-10-23 11:04:42.910 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507443433024]
+2023-10-23 11:04:42.910 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507443433024]
+2023-10-23 11:04:43.422 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757099328]
+2023-10-23 11:04:43.423 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757099328]
+2023-10-23 11:04:43.423 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561324192]
+2023-10-23 11:04:43.423 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561324192]
+2023-10-23 11:04:43.665 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757099712]
+2023-10-23 11:04:43.665 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757099712]
+2023-10-23 11:04:43.665 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757099616]
+2023-10-23 11:04:43.665 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757099616]
+2023-10-23 11:04:49.912 22727-22727 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:04:49.914 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434012000]
+2023-10-23 11:04:49.914 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434012000]
+2023-10-23 11:04:49.915 22727-22727 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:04:49.918 22727-22727 onDestroy               com.example.quiz                     D  Wywolano metode onRDestroy
+2023-10-23 11:04:50.110 22727-22727 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:04:50.113 22727-22727 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:04:50.186 22727-22727 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x2ac1a78 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:04:50.229 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757100960]
+2023-10-23 11:04:50.229 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757100960]
+2023-10-23 11:04:50.229 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757100288]
+2023-10-23 11:04:50.229 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757100288]
+2023-10-23 11:04:50.229 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757100192]
+2023-10-23 11:04:50.230 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757100192]
+2023-10-23 11:04:50.333 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320736]
+2023-10-23 11:04:50.333 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320736]
+2023-10-23 11:04:50.333 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320448]
+2023-10-23 11:04:50.333 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320448]
+2023-10-23 11:04:58.779 22727-22727 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:04:58.781 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507443429376]
+2023-10-23 11:04:58.781 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507443429376]
+2023-10-23 11:04:58.781 22727-22727 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:04:58.784 22727-22727 onDestroy               com.example.quiz                     D  Wywolano metode onRDestroy
+2023-10-23 11:04:58.948 22727-22727 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:04:58.950 22727-22727 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:04:58.984 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561324192]
+2023-10-23 11:04:58.984 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561324192]
+2023-10-23 11:04:58.985 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757102688]
+2023-10-23 11:04:58.985 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757102688]
+2023-10-23 11:04:58.985 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757102400]
+2023-10-23 11:04:58.985 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757102400]
+2023-10-23 11:04:59.023 22727-22727 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x417c114 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:04:59.072 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561324192]
+2023-10-23 11:04:59.073 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561324192]
+2023-10-23 11:04:59.073 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757102688]
+2023-10-23 11:04:59.073 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757102688]
+2023-10-23 11:04:59.098 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757101536]
+2023-10-23 11:04:59.098 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757101536]
+2023-10-23 11:04:59.098 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757101440]
+2023-10-23 11:04:59.098 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757101440]
+2023-10-23 11:04:59.238 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757103456]
+2023-10-23 11:04:59.238 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757103456]
+2023-10-23 11:04:59.238 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757103360]
+2023-10-23 11:04:59.239 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757103360]
+2023-10-23 11:05:16.853 22727-22727 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:05:16.855 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757102400]
+2023-10-23 11:05:16.855 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757102400]
+2023-10-23 11:05:16.856 22727-22727 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:05:16.859 22727-22727 onDestroy               com.example.quiz                     D  Wywolano metode onRDestroy
+2023-10-23 11:05:17.050 22727-22727 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:05:17.052 22727-22727 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:05:17.116 22727-22727 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x851c070 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:05:17.163 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757104128]
+2023-10-23 11:05:17.163 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757104128]
+2023-10-23 11:05:17.164 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757103648]
+2023-10-23 11:05:17.164 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757103648]
+2023-10-23 11:05:17.164 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757103552]
+2023-10-23 11:05:17.164 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757103552]
+2023-10-23 11:05:17.166 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507443436960]
+2023-10-23 11:05:17.166 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507443436960]
+2023-10-23 11:05:17.166 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507443434848]
+2023-10-23 11:05:17.166 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507443434848]
+2023-10-23 11:05:17.277 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757103072]
+2023-10-23 11:05:17.277 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757103072]
+2023-10-23 11:05:17.277 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[505757102880]
+2023-10-23 11:05:17.277 22727-22727 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[505757102880]
+---------------------------- PROCESS ENDED (22727) for package com.example.quiz ----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punkt 13:
+2023-10-23 11:19:00.454 24667-24667 NetworkSecurityConfig   com.example.quiz                     D  No Network Security Config specified, using platform default
+2023-10-23 11:19:00.488 24667-24667 NetworkSecurityConfig   com.example.quiz                     D  No Network Security Config specified, using platform default
+2023-10-23 11:19:00.769 24667-24667 onCreate                com.example.quiz                     D  Wywolana zostala metoca cyklu zycia: onCreate
+2023-10-23 11:19:01.026 24667-24667 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:19:01.030 24667-24667 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:19:01.148 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xca4f692 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:01.400 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105369152]
+2023-10-23 11:19:01.400 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105369152]
+2023-10-23 11:19:01.400 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[510105370208]
+2023-10-23 11:19:01.400 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[510105370208]
+2023-10-23 11:19:08.626 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320928]
+2023-10-23 11:19:08.627 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320928]
+2023-10-23 11:19:08.627 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320832]
+2023-10-23 11:19:08.627 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320832]
+2023-10-23 11:19:08.627 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320736]
+2023-10-23 11:19:08.627 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320736]
+2023-10-23 11:19:08.652 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012209632]
+2023-10-23 11:19:08.652 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012209632]
+2023-10-23 11:19:08.654 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xca4f692 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:08.655 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561321792]
+2023-10-23 11:19:08.655 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561321792]
+2023-10-23 11:19:09.545 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012209632]
+2023-10-23 11:19:09.545 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012209632]
+2023-10-23 11:19:17.851 24667-24667 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:19:17.853 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320736]
+2023-10-23 11:19:17.854 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320736]
+2023-10-23 11:19:17.855 24667-24667 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:19:17.862 24667-24667 onDestroy               com.example.quiz                     D  Wywolano metode onDestroy
+2023-10-23 11:19:17.969 24667-24667 onCreate                com.example.quiz                     D  Wywolana zostala metoca cyklu zycia: onCreate
+2023-10-23 11:19:18.073 24667-24667 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:19:18.076 24667-24667 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:19:18.142 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xf7ee95d / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:18.192 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323040]
+2023-10-23 11:19:18.192 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323040]
+2023-10-23 11:19:18.193 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323232]
+2023-10-23 11:19:18.193 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323232]
+2023-10-23 11:19:18.193 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323136]
+2023-10-23 11:19:18.193 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323136]
+2023-10-23 11:19:18.198 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012012896]
+2023-10-23 11:19:18.198 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012012896]
+2023-10-23 11:19:18.198 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012011360]
+2023-10-23 11:19:18.198 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012011360]
+2023-10-23 11:19:18.360 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320448]
+2023-10-23 11:19:18.360 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320448]
+2023-10-23 11:19:18.360 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323328]
+2023-10-23 11:19:18.360 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323328]
+2023-10-23 11:19:19.027 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320928]
+2023-10-23 11:19:19.027 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320928]
+2023-10-23 11:19:19.027 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561320832]
+2023-10-23 11:19:19.027 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561320832]
+2023-10-23 11:19:24.566 24667-24667 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:19:24.649 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323136]
+2023-10-23 11:19:24.649 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323136]
+2023-10-23 11:19:24.649 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323040]
+2023-10-23 11:19:24.649 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323040]
+2023-10-23 11:19:24.649 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561321120]
+2023-10-23 11:19:24.650 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561321120]
+2023-10-23 11:19:24.652 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012004736]
+2023-10-23 11:19:24.652 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012004736]
+2023-10-23 11:19:24.652 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434000864]
+2023-10-23 11:19:24.652 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434000864]
+2023-10-23 11:19:24.652 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012004832]
+2023-10-23 11:19:24.652 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012004832]
+2023-10-23 11:19:24.668 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434006912]
+2023-10-23 11:19:24.669 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434006912]
+2023-10-23 11:19:24.669 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012005600]
+2023-10-23 11:19:24.669 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012005600]
+2023-10-23 11:19:24.669 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012004544]
+2023-10-23 11:19:24.669 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012004544]
+2023-10-23 11:19:24.700 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012006560]
+2023-10-23 11:19:24.700 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012006560]
+2023-10-23 11:19:24.701 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012008768]
+2023-10-23 11:19:24.701 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012008768]
+2023-10-23 11:19:24.701 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012007520]
+2023-10-23 11:19:24.701 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012007520]
+2023-10-23 11:19:24.702 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012008864]
+2023-10-23 11:19:24.703 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012008864]
+2023-10-23 11:19:24.703 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009248]
+2023-10-23 11:19:24.703 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009248]
+2023-10-23 11:19:24.703 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009152]
+2023-10-23 11:19:24.703 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009152]
+2023-10-23 11:19:24.706 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009344]
+2023-10-23 11:19:24.706 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009344]
+2023-10-23 11:19:24.706 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434000864]
+2023-10-23 11:19:24.707 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434000864]
+2023-10-23 11:19:24.707 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009632]
+2023-10-23 11:19:24.707 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009632]
+2023-10-23 11:19:24.710 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434006912]
+2023-10-23 11:19:24.710 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434006912]
+2023-10-23 11:19:24.711 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012004832]
+2023-10-23 11:19:24.711 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012004832]
+2023-10-23 11:19:24.711 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012004736]
+2023-10-23 11:19:24.711 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012004736]
+2023-10-23 11:19:24.717 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012004544]
+2023-10-23 11:19:24.717 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012004544]
+2023-10-23 11:19:24.717 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012006560]
+2023-10-23 11:19:24.717 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012006560]
+2023-10-23 11:19:24.717 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012005600]
+2023-10-23 11:19:24.717 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012005600]
+2023-10-23 11:19:24.765 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012008768]
+2023-10-23 11:19:24.765 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012008768]
+2023-10-23 11:19:24.765 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012008864]
+2023-10-23 11:19:24.765 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012008864]
+2023-10-23 11:19:24.765 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012007520]
+2023-10-23 11:19:24.765 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012007520]
+2023-10-23 11:19:24.964 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012008288]
+2023-10-23 11:19:24.964 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012008288]
+2023-10-23 11:19:24.965 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xae07a71 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:24.965 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xf7ee95d / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:24.966 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434000864]
+2023-10-23 11:19:24.967 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434000864]
+2023-10-23 11:19:24.967 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009248]
+2023-10-23 11:19:24.967 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009248]
+2023-10-23 11:19:24.967 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009152]
+2023-10-23 11:19:24.967 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009152]
+2023-10-23 11:19:24.973 24667-24667 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:19:24.977 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012008864]
+2023-10-23 11:19:24.978 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012008864]
+2023-10-23 11:19:24.978 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012007520]
+2023-10-23 11:19:24.978 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012007520]
+2023-10-23 11:19:24.978 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012008288]
+2023-10-23 11:19:24.978 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012008288]
+2023-10-23 11:19:25.135 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009632]
+2023-10-23 11:19:25.136 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009632]
+2023-10-23 11:19:25.136 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009344]
+2023-10-23 11:19:25.136 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009344]
+2023-10-23 11:19:25.136 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434006912]
+2023-10-23 11:19:25.136 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434006912]
+2023-10-23 11:19:26.823 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xae07a71 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:26.824 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xf7ee95d / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:26.830 24667-24667 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:19:26.832 24667-24667 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:19:26.853 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xf7ee95d / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:26.908 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434006912]
+2023-10-23 11:19:26.908 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434006912]
+2023-10-23 11:19:26.909 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xf7ee95d / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:27.411 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009344]
+2023-10-23 11:19:27.411 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009344]
+2023-10-23 11:19:27.412 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xf7ee95d / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:27.413 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009728]
+2023-10-23 11:19:27.413 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009728]
+2023-10-23 11:19:27.649 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009344]
+2023-10-23 11:19:27.649 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009344]
+2023-10-23 11:19:27.715 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012009824]
+2023-10-23 11:19:27.715 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012009824]
+2023-10-23 11:19:27.716 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012010016]
+2023-10-23 11:19:27.716 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012010016]
+2023-10-23 11:19:29.265 24667-24667 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:19:29.270 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507434006912]
+2023-10-23 11:19:29.271 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507434006912]
+2023-10-23 11:19:29.271 24667-24667 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:19:29.275 24667-24667 onDestroy               com.example.quiz                     D  Wywolano metode onDestroy
+2023-10-23 11:19:29.337 24667-24667 onCreate                com.example.quiz                     D  Wywolana zostala metoca cyklu zycia: onCreate
+2023-10-23 11:19:29.441 24667-24667 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:19:29.444 24667-24667 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:19:29.476 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012010112]
+2023-10-23 11:19:29.476 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012010112]
+2023-10-23 11:19:29.477 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012007424]
+2023-10-23 11:19:29.477 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012007424]
+2023-10-23 11:19:29.477 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012006848]
+2023-10-23 11:19:29.477 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012006848]
+2023-10-23 11:19:29.513 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x74ed7a1 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:29.565 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012010112]
+2023-10-23 11:19:29.565 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012010112]
+2023-10-23 11:19:29.565 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012007424]
+2023-10-23 11:19:29.565 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012007424]
+2023-10-23 11:19:29.635 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012007712]
+2023-10-23 11:19:29.635 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012007712]
+2023-10-23 11:19:29.635 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012007616]
+2023-10-23 11:19:29.635 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012007616]
+2023-10-23 11:19:30.999 24667-24667 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:19:31.001 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012006848]
+2023-10-23 11:19:31.001 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012006848]
+2023-10-23 11:19:31.002 24667-24667 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:19:31.005 24667-24667 onDestroy               com.example.quiz                     D  Wywolano metode onDestroy
+2023-10-23 11:19:31.070 24667-24667 onCreate                com.example.quiz                     D  Wywolana zostala metoca cyklu zycia: onCreate
+2023-10-23 11:19:31.167 24667-24667 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:19:31.169 24667-24667 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:19:31.197 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323232]
+2023-10-23 11:19:31.197 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323232]
+2023-10-23 11:19:31.198 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323136]
+2023-10-23 11:19:31.198 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323136]
+2023-10-23 11:19:31.198 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323040]
+2023-10-23 11:19:31.198 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323040]
+2023-10-23 11:19:31.225 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x907690d / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:31.272 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012004832]
+2023-10-23 11:19:31.273 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012004832]
+2023-10-23 11:19:31.273 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012004736]
+2023-10-23 11:19:31.273 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012004736]
+2023-10-23 11:19:31.375 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012005984]
+2023-10-23 11:19:31.375 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012005984]
+2023-10-23 11:19:31.375 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012004928]
+2023-10-23 11:19:31.375 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012004928]
+2023-10-23 11:19:31.957 24667-24667 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:19:31.958 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323040]
+2023-10-23 11:19:31.958 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323040]
+2023-10-23 11:19:31.959 24667-24667 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:19:31.962 24667-24667 onDestroy               com.example.quiz                     D  Wywolano metode onDestroy
+2023-10-23 11:19:32.023 24667-24667 onCreate                com.example.quiz                     D  Wywolana zostala metoca cyklu zycia: onCreate
+2023-10-23 11:19:32.109 24667-24667 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:19:32.111 24667-24667 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:19:32.141 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012005696]
+2023-10-23 11:19:32.141 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012005696]
+2023-10-23 11:19:32.142 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012005600]
+2023-10-23 11:19:32.142 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012005600]
+2023-10-23 11:19:32.142 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012005408]
+2023-10-23 11:19:32.142 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012005408]
+2023-10-23 11:19:32.173 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x14c1439 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:32.340 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012007616]
+2023-10-23 11:19:32.340 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012007616]
+2023-10-23 11:19:32.340 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012008192]
+2023-10-23 11:19:32.340 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012008192]
+2023-10-23 11:19:32.937 24667-24667 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:19:33.019 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012008096]
+2023-10-23 11:19:33.019 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012008096]
+2023-10-23 11:19:33.019 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012007808]
+2023-10-23 11:19:33.019 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012007808]
+2023-10-23 11:19:33.019 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012007712]
+2023-10-23 11:19:33.019 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012007712]
+2023-10-23 11:19:33.204 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561323040]
+2023-10-23 11:19:33.204 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561323040]
+2023-10-23 11:19:33.463 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012005408]
+2023-10-23 11:19:33.463 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012005408]
+2023-10-23 11:19:33.464 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xc7d7da9 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:33.465 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x14c1439 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:33.471 24667-24667 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:19:34.871 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xc7d7da9 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:34.873 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x14c1439 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:34.886 24667-24667 onStart                 com.example.quiz                     D  Wywolano metode onStart
+2023-10-23 11:19:34.888 24667-24667 onResume                com.example.quiz                     D  Wywolano metode onResume
+2023-10-23 11:19:34.909 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x14c1439 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:34.979 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561324480]
+2023-10-23 11:19:34.979 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561324480]
+2023-10-23 11:19:34.979 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561324384]
+2023-10-23 11:19:34.979 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561324384]
+2023-10-23 11:19:53.167 24667-24667 onPause                 com.example.quiz                     D  Wywolano metode onPause
+2023-10-23 11:19:53.261 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561324768]
+2023-10-23 11:19:53.261 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561324768]
+2023-10-23 11:19:53.261 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561324672]
+2023-10-23 11:19:53.261 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561324672]
+2023-10-23 11:19:53.262 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561324576]
+2023-10-23 11:19:53.262 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561324576]
+2023-10-23 11:19:53.324 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[507561325440]
+2023-10-23 11:19:53.324 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[507561325440]
+2023-10-23 11:19:53.552 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject s[506012008576]
+2023-10-23 11:19:53.552 24667-24667 SurfaceControl          com.example.quiz                     I  nativeRelease nativeObject e[506012008576]
+2023-10-23 11:19:53.553 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0xc7d7da9 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1814 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:53.554 24667-24667 SurfaceControl          com.example.quiz                     I  assignNativeObject: nativeObject = 0 Surface(name=null)/@0x14c1439 / android.view.SurfaceControl.readFromParcel:1121 android.view.IWindowSession$Stub$Proxy.relayout:1824 android.view.ViewRootImpl.relayoutWindow:9005 android.view.ViewRootImpl.performTraversals:3360 android.view.ViewRootImpl.doTraversal:2618 android.view.ViewRootImpl$TraversalRunnable.run:9971 android.view.Choreographer$CallbackRecord.run:1010 android.view.Choreographer.doCallbacks:809 android.view.Choreographer.doFrame:744 android.view.Choreographer$FrameDisplayEventReceiver.run:995
+2023-10-23 11:19:53.561 24667-24667 onStop                  com.example.quiz                     D  Wywolano metode onStop
+2023-10-23 11:19:54.552 24667-24667 onDestroy               com.example.quiz                     D  Wywolano metode onDestroy
+---------------------------- PROCESS ENDED (24667) for package com.example.quiz ----------------------------
