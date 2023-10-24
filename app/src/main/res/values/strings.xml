@@ -15,4 +15,11 @@
     <string name="incorrect_answer">Odpowiedz niepoprawna.</string>
     <string name="quiz_result">Twój wynik to: %1$d / %2$d</string>
 
+    <string name="see_answer_text">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="see_answer_button">Pokaz odpowiedz</string>
+
+    <string name="QUIZ_TAG">Wywolana zostala metoda cyklu zycia:</string>
+
+    <string name="answer_was_shown">Odpowiedz byla juz wyswietlona!</string>
+
 </resources>

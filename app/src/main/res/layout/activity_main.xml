@@ -42,4 +42,10 @@
         android:layout_height="wrap_content"
         android:text="@string/button_next" />
 
+    <Button
+        android:id="@+id/answer_hint_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Podpowiedz" />
+
 </LinearLayout>
